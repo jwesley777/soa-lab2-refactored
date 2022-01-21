@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/soa-lab1/static/css/main.c084d6c3.chunk.css",
+    "main.js": "/soa-lab1/static/js/main.65d9860e.chunk.js",
+    "main.js.map": "/soa-lab1/static/js/main.65d9860e.chunk.js.map",
+    "runtime-main.js": "/soa-lab1/static/js/runtime-main.88011f5b.js",
+    "runtime-main.js.map": "/soa-lab1/static/js/runtime-main.88011f5b.js.map",
+    "static/js/2.5057ad11.chunk.js": "/soa-lab1/static/js/2.5057ad11.chunk.js",
+    "static/js/2.5057ad11.chunk.js.map": "/soa-lab1/static/js/2.5057ad11.chunk.js.map",
+    "index.html": "/soa-lab1/index.html",
+    "static/css/main.c084d6c3.chunk.css.map": "/soa-lab1/static/css/main.c084d6c3.chunk.css.map",
+    "static/js/2.5057ad11.chunk.js.LICENSE.txt": "/soa-lab1/static/js/2.5057ad11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88011f5b.js",
+    "static/js/2.5057ad11.chunk.js",
+    "static/css/main.c084d6c3.chunk.css",
+    "static/js/main.65d9860e.chunk.js"
+  ]
+}
